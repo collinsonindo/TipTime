@@ -1,24 +1,6 @@
-Tip Time - Solution Code
-=================================
+# Tip Time app
+Tip Time app calculates the tip based on the user input and formats the tip amount and total amount according to the Kenyan currency.
+The android app contains various UI elements for calculating a tip, teaching about user input, and State in Compose.
 
-Solution code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
+## Screenshots
 
-
-Introduction
-------------
-The Tip Time app contains various UI elements for calculating a tip,
-teaching about user input, and State in Compose.
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
