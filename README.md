@@ -3,7 +3,12 @@ Tip Time app calculates the tip based on the user input and formats the tip amou
 The android app contains various UI elements for calculating a tip, teaching about user input, and State in Compose.
 
 ## Screenshots
-![Screenshot](https://github.com/collinsonindo/TipTime/blob/master/Screenshot2.jpeg) ![Screenshot](https://github.com/collinsonindo/TipTime/blob/master/Screenshot1.jpeg) ![Screenshot](https://github.com/collinsonindo/TipTime/blob/master/Screenshot.jpeg)
+<p align="center">
+  <img src="https://github.com/collinsonindo/TipTime/blob/master/Screenshot2.jpeg" width="300" alt="Screenshot">
+  <img src="https://github.com/collinsonindo/TipTime/blob/master/Screenshot1.jpeg" width="300" alt="Screenshot">
+  <img src="https://github.com/collinsonindo/TipTime/blob/master/Screenshot.jpeg" width="300" alt="Screenshot">
+</p>
+
 
 
 
